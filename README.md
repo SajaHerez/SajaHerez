@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saja</h1>
 <h3 align="center">Flutter Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_h4Sz6rPhDM10Yii0oE_N_R3oH6EhmKR_vMg83tMe3Z3FbWWzXez6lnjRC5ItR6sF8U&usqp=CAU">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saja herez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saja herez" height="30" width="40" /></a>
