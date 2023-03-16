@@ -11,8 +11,8 @@
 <a href="https://medium.com/@saja-hz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saja-hz" height="30" width="40" /></a>
 </p>
 <div>
-  <span align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sajaherez&show_icons=true&theme=dark&title_color=81c995&text_color=81c995&locale=en" alt="sajaherez" /></span>
-  <span ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajaherez&theme=dark" alt="sajaherez" /></span>
+  <span align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sajaherez&show_icons=true&theme=dark&title_color=81c995&text_color=81c995&locale=en" alt="sajaherez" /></span>
+  <span align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajaherez&theme=dark" alt="sajaherez" /></span>
 </div>
 <br>
 
