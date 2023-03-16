@@ -12,8 +12,8 @@
 </p>
 <div>
   <span align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sajaherez&show_icons=true&theme=dark&title_color=81c995&text_color=81c995&locale=en" alt="sajaherez" /></span>
-<span  align="right" ><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajaherez&show_icons=true&theme=dark&title_color=81c995&text_color=81c995&locale=en&layout=compact" alt="sajaherez" /></span>
+  <span ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajaherez&theme=dark" alt="sajaherez" /></span>
 </div>
 <br>
-<p  align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sajaherez&theme=dark" alt="sajaherez" /></p>
 
+<p  align="center" ><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajaherez&show_icons=true&theme=dark&title_color=81c995&text_color=81c995&locale=en&layout=compact" alt="sajaherez" /></p>
