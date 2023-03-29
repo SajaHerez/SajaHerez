@@ -26,9 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/SajaHerez" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="saja herez" /></a>
-<a href="https://linkedin.com/in/saja herez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saja herez" /></a>
-<a href="https://linkedin.com/in/saja herez" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="saja herez" /></a>
+<a href="https://www.linkedin.com/in/saja-herez-b27819216" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saja herez" /></a>
+<a href="https://discordapp.com/users/867841012671971359" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="saja herez" /></a>
 <a href="https://medium.com/@saja-hz" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@saja-hz" /></a>
+ <a href="https://github.com/SajaHerez" target="blank"><img align="center" src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-left_medium-light-skin-tone_1f448-1f3fc_1f3fc.png" alt="@saja-hz" height="80" width="100" /></a>
 </p>
 <div>
 <p align="center">
